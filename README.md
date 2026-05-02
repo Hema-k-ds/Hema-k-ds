@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Hema 👋
 
-<!--
-**Hema-k-ds/Hema-k-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science Student  
+📊 Aspiring Data Scientist  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am a Computer Science student passionate about data science and problem-solving.  
+Currently, I am learning Python, SQL, data analysis, and machine learning.  
+
+I enjoy working with data, finding insights, and building projects that solve real-world problems.
+
+---
+
+## 🛠️ Skills (Learning)
+- Python  
+- SQL  
+- Data Analysis  
+- Machine Learning (beginner)  
+- Pandas & NumPy  
+
+---
+
+## 📌 Goals
+- Build strong data science projects  
+- Get a data science internship  
+- Continuously improve my technical skills  
+
+---
+
+## 📫 Connect with me
+LinkedIn: 
+
+---
+
+⭐️ More projects coming soon!
