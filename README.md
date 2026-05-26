@@ -30,7 +30,7 @@ I enjoy working with data, finding insights, and building projects that solve re
 ---
 
 ## 📫 Connect with me
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/hema-karoonyaa-80610a391/
 
 ---
 
